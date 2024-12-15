@@ -4,6 +4,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
 }
 
 @layer base {
@@ -12,7 +13,3 @@ body {
   }
 }
 
-.text-effect {
-  background-image: linear-gradient(red, green);
-  background-clip: text;
-}
