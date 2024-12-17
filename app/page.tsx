@@ -5,6 +5,7 @@ import Image from "next/image";
 import HeroSlider from "@/components/Articles";
 import NewsBlock from "@/components/NewsBlock";
 import Articles from "@/components/Articles";
+import Footer from '@/components/Footer'
 
 export default function Home() {
   return (
